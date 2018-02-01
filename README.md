@@ -9,3 +9,7 @@
 - Google Pixel (camera)
 - Visual Studio Code
 - GNU Image Manipulation Program
+
+
+
+Website by Lucas A. Rufkahr
