@@ -1,0 +1,16 @@
+html,body {
+    text-align: center;
+    height: 100%;
+}
+
+header{
+    height: 7%;
+}
+
+.wrapper {  
+    height: 92%;
+}
+
+.row {
+    height: 50%;
+}

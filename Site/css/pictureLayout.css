@@ -1,0 +1,13 @@
+#picture-title {
+    font-weight: bold;
+    font-size: 28px;
+}
+
+#picture-subtitle {
+    font-style: italic;
+    font-size: 15px;
+}
+
+img {
+    width: 450px;
+}
